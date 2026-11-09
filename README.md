@@ -31,9 +31,6 @@ A Garry's Mod addon based on Rick and Morty: Rick's portal gun and a lot of othe
 ### Ошибки и предложения
 Пишите в [Issues](../../issues) или в комментарии в Мастерской. К ошибке приложите текст из консоли (красные строки) и, если можно, скриншот.
 
-### Лицензия
-Лицензия пока не выбрана: код открыт для чтения и изучения, но копировать его в свои аддоны и перезаливать в Мастерскую без разрешения автора нельзя.
-
 ---
 
 ## English
@@ -57,6 +54,3 @@ With VRMod installed, the portal gun and the laser aim with the barrel in your r
 
 ### Bugs and suggestions
 Use [Issues](../../issues) or the Workshop comments. Please add the console text of the error (the red lines) and a screenshot if you can.
-
-### License
-No license has been chosen yet: the code is open to read and learn from, but copying it into your own addons or reuploading it to the Workshop without the author's permission is not allowed.
