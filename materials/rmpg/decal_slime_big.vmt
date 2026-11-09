@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "rmpg/decal_slime"
+	"$decal" 1
+	"$decalscale" 1.0
+	"$decalfadetime" 8
+	"$decalfadeduration" 12
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

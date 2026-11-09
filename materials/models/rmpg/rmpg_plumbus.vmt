@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/rmpg/rmpg_pal6"
+	"$bumpmap" "dev/bump_normal"
+	"$halflambert" 1
+	"$phong" 1
+	"$phongboost" 2.6
+	"$phongexponent" 18
+	"$phongfresnelranges" "[0.5 0.8 1]"
+	"$rimlight" 1
+	"$rimlightexponent" 5
+	"$rimlightboost" 0.7
+}

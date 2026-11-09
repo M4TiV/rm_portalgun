@@ -1,0 +1,6 @@
+{
+	"title": "Rick and Morty Portal Gun",
+	"type": "weapon",
+	"tags": [ "fun", "cartoon" ],
+	"ignore": [ "*.psd", "*.md", "*.jpg", "*.gma", ".git/*", ".gitignore", ".gitattributes", "LICENSE" ]
+}

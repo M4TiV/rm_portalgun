@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/rmpg/rmpg_palette2"
+	"$halflambert" "1"
+}

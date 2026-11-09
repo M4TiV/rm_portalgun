@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "rmpg/fx_heart"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$nocull" 1
+}

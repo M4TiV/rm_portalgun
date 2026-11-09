@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/rmpg/rmpg_white"
+	"$color2" "[0.36 0.07 0.11]"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/rmpg/rmpg_white"
+	"$model" "1"
+	"$color2" "[1 0.5 0.66]"
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/flesh"
+	"$bumpmap" "models/flesh_nrm"
+	"$halflambert" 1
+	"$phong" 1
+	"$phongboost" 1.5
+	"$phongfresnelranges" "[0.4 0.8 1]"
+	"$phongexponent" 30
+}

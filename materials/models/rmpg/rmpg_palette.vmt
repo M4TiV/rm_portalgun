@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/rmpg/rmpg_palette"
+	"$surfaceprop" "plastic"
+	"$nocull" "1"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongexponent" "18"
+	"$phongboost" "0.5"
+	"$phongfresnelranges" "[0.4 0.8 1]"
+}

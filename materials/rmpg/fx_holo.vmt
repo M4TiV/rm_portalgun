@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "rmpg/fx_holo"
+	"$additive" 1
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$model" 1
+	"$nocull" 1
+}
